@@ -1,6 +1,8 @@
 # MFE5210_alpha_factors
 There are two factors in this project. One is a price and volume factor and the other is a fundamental factor.
-   
+
+The data file is too large to upload, please contact me if necessary.  
+  
 ## Correlation matrix
 |Indicators|Value |
 |------| -------- |
